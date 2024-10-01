@@ -3,10 +3,13 @@
 
 👋 Hi there! I'm Chris,
 📊 Data Scientist | 🎓 Economics & Management  | 🤖 ML Enthusiast
-I'm passionate about leveraging advanced analytics and machine learning to solve complex business and organizational challenges. With a strong foundation in economics and management, I bring a unique perspective to data-driven decision making.
 
 
-🛠️ Tech Stack
+I'm passionate about leveraging advanced analytics and machine learning to solve complex business and organizational 
+challenges. With a strong foundation in economics and management, I bring a unique perspective to data-driven decision making.
+
+
+🛠️ Tech Stack 🛠️
 
 Languages: Python, SQL
 
@@ -21,6 +24,7 @@ BI Tools: Power BI
 Backend : Flask
 
 Deployment: Streamlit, Heroku, Render
+
 
 🚀 What I'm up to
 
