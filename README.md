@@ -1,17 +1,19 @@
 ## Hi there 👋
 
 
-👋 Hi there! I'm [Your Name]
-📊 Data Scientist | 🎓 Economics & Management Background | 🤖 ML Enthusiast
+👋 Hi there! I'm Chris,
+📊 Data Scientist | 🎓 Economics & Management  | 🤖 ML Enthusiast
 I'm passionate about leveraging advanced analytics and machine learning to solve complex business and organizational challenges. With a strong foundation in economics and management, I bring a unique perspective to data-driven decision making.
-🛠️ Tech Stack
 
-Languages: Python, R, SQL
+
+🛠️ Tech Stack
+Languages: Python, SQL
 Data Analysis: Pandas, NumPy, SciPy
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 Visualization: Matplotlib, Seaborn, Plotly
-Big Data: Spark, Hadoop
-BI Tools: Tableau, Power BI
+BI Tools: Power BI
+Backend : Flask
+Deployment: Streamlit, Heroku, Render
 
 🚀 What I'm up to
 
@@ -20,17 +22,7 @@ Exploring deep learning applications in finance
 Creating data-driven solutions for operational efficiency
 Continuously learning and expanding my ML toolkit
 
-📚 Featured Projects
-
-Project Name 1 - Brief description
-Project Name 2 - Brief description
-Project Name 3 - Brief description
-
 📫 Let's Connect!
-
-[LinkedIn](Your LinkedIn URL)
-[Twitter](Your Twitter URL)
-[Personal Website/Blog](Your website URL)
 
 💡 Always open to collaborating on interesting data science projects!
 <!--
