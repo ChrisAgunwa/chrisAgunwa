@@ -28,14 +28,12 @@ Deployment: Streamlit, Heroku, Render
 
 🚀 What I'm up to
 
-Developing predictive models for business forecasting
-Exploring deep learning applications in finance
 Creating data-driven solutions for operational efficiency
+
 Continuously learning and expanding my ML toolkit
 
-📫 Let's Connect!
-
-💡 Always open to collaborating on interesting data science projects!
+💡 Always open to collaborating on interesting data science projects
+Let's connect!
 <!--
 **ChrisAgunwa/chrisAgunwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
