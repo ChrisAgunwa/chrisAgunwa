@@ -7,12 +7,19 @@ I'm passionate about leveraging advanced analytics and machine learning to solve
 
 
 🛠️ Tech Stack
+
 Languages: Python, SQL
+
 Data Analysis: Pandas, NumPy, SciPy
+
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
+
 Visualization: Matplotlib, Seaborn, Plotly
+
 BI Tools: Power BI
+
 Backend : Flask
+
 Deployment: Streamlit, Heroku, Render
 
 🚀 What I'm up to
