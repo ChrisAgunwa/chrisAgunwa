@@ -49,7 +49,6 @@
 ### 🔗 Let's Connect
 <div align="center">
     <a href="https://www.linkedin.com/in/christian-agunwa"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png"/></a>
-    <a href="https://www.facebook.com/ejikemeagunwa"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/></a>
     <a href="https://x.com/KemeAgunwa"><img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png"/></a>
     <a href="https://bit.ly/ejikemeuwa"><img src="https://img.icons8.com/ios-filled/50/000000/globe.png"/></a>
     <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png"/></a>
