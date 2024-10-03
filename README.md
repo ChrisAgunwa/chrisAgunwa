@@ -44,27 +44,20 @@
 
 ---
 
-### 📂 Pinned Repositories
-<div align="center">
-    [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=repo1)](https://github.com/chrisagunwa/repo1)  <!-- Replace with your repo -->
-    [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=repo2)](https://github.com/chrisagunwa/repo2)  <!-- Replace with your repo -->
-    [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=cali_housing_prediction)](https://github.com/chrisagunwa/cali_housing_prediction)  <!-- Replace with your repo -->
-</div>
-
----
-
 ### 🔗 Let's Connect
 <div align="center">
     <a href="https://www.linkedin.com/in/christian-agunwa"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png"/></a>
     <a href="https://www.facebook.com/ejikemeagunwa"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/></a>
     <a href="https://x.com/KemeAgunwa"><img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png"/></a>
     <a href="https://bit.ly/ejikemeuwa"><img src="https://img.icons8.com/ios-filled/50/000000/globe.png"/></a>
+    <a href="https://api.whatsapp.com/send?phone=2349033678541"><img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png"/></a>
 </div>
 
 ---
 
 ### 📧 Contact
-Email: [chrisagunwa@gmail.com](mailto:chrisagunwa@gmail.com)
+Email: [chrisagunwa@gmail.com](mailto:chrisagunwa@gmail.com)  
+WhatsApp: [+2349033678541](https://api.whatsapp.com/send?phone=2349033678541)
 
 ---
 
