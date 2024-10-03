@@ -3,6 +3,14 @@
 
 ---
 
+<div align="center">
+    <div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
+        <h1>"The goal is to turn data into information, and information into insight." - Carly Fiorina</h1>
+    </div>
+</div>
+
+---
+
 ### 📊 Contribution Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=chrisagunwa&show_icons=true&theme=radical" />
@@ -36,14 +44,6 @@
 
 ---
 
-<div align="center">
-    <div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
-        <h1>"The goal is to turn data into information, and information into insight." - Carly Fiorina</h1>
-    </div>
-</div>
-
----
-
 ### 🔗 Let's Connect
 <div align="center">
     <a href="https://www.linkedin.com/in/christian-agunwa"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png"/></a>
@@ -56,8 +56,10 @@
 ---
 
 ### 📧 Contact
-Email: [chrisagunwa@gmail.com](mailto:chrisagunwa@gmail.com)  
-WhatsApp: [+2349033678541](https://api.whatsapp.com/send?phone=2349033678541)
+<div align="center">
+    <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email.png"/> Email</a><br />
+    <a href="https://api.whatsapp.com/send?phone=2349033678541"><img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png"/> WhatsApp</a>
+</div>
 
 ---
 
