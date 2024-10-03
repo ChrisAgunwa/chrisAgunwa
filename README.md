@@ -12,8 +12,7 @@
 
 ### 📊 Contribution Stats
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisagunwa&show_icons=true&theme=radical)
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=chrisagunwa&count_private=true&show_icons=true&theme=radical)
-
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
 ---
 
 ### 📈 Activity Overview
