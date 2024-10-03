@@ -16,9 +16,7 @@ I'm dedicated to leveraging advanced analytics and machine learning to tackle co
 ### 📊 Contribution Stats
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisagunwa&show_icons=true&theme=radical)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=chrisagunwa&count_private=true&show_icons=true&theme=radical)
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
-![Weekly Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
+
 
 ---
 
