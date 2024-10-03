@@ -46,9 +46,42 @@ I'm dedicated to leveraging advanced analytics and machine learning to tackle co
 
 ---
 
-### 💬 Favorite Quote
-"The goal is to turn data into information, and information into insight." - Carly Fiorina
-
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;
+                    width: 100%;
+                    background-color: #0D1117;
+                    border: 2px solid #30363D;
+                    border-radius: 10px;
+                    font-family: Arial, sans-serif;
+                    color: #C9D1D9;
+                    padding: 10px;
+                }
+                .quote {
+                    font-size: 16px;
+                    font-style: italic;
+                    text-align: center;
+                    margin-bottom: 10px;
+                }
+                .author {
+                    font-size: 14px;
+                    font-weight: bold;
+                }
+            </style>
+            <div class="container">
+                <p class="quote">"The goal is to turn data into information, and information into insight."</p>
+                <p class="author">- Carly Fiorina</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
 ---
 
 ### 📂 Pinned Repositories
