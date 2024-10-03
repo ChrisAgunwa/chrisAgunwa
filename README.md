@@ -55,16 +55,8 @@
     <a href="https://www.facebook.com/ejikemeagunwa"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/></a>
     <a href="https://x.com/KemeAgunwa"><img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png"/></a>
     <a href="https://bit.ly/ejikemeuwa"><img src="https://img.icons8.com/ios-filled/50/000000/globe.png"/></a>
-    <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/envelope.png"/></a>
+    <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png"/></a>
     <a href="https://api.whatsapp.com/send?phone=2349033678541"><img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png"/></a>
-</div>
-
----
-
-### 📧 Contact
-<div align="center">
-    <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/envelope.png"/> Email</a><br />
-    <a href="https://api.whatsapp.com/send?phone=2349033678541"><img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png"/> WhatsApp</a>
 </div>
 
 ---
