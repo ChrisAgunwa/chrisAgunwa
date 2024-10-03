@@ -1,5 +1,5 @@
 # Hi there 👋  
-👋 I'm Chris, a passionate **Data Scientist** | 🤖 **ML Enthusiast**
+ **Data Scientist** | 🤖 **ML Enthusiast**
 
 ---
 
@@ -55,7 +55,3 @@
     <a href="mailto:chrisagunwa@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png"/></a>
     <a href="https://api.whatsapp.com/send?phone=2349033678541"><img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png"/></a>
 </div>
-
----
-
-### 🙏 Thanks for visiting!
