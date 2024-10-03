@@ -1,22 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=chrisagunwa&color=blue)
 
 # Hi there 👋  
-👋 I'm Chris, a passionate **Data Scientist** | 🎓 **Economics & Management** | 🤖 **ML Enthusiast**
-
-<div align="center">
-  <h2>I am a Data Scientist...</h2>
-  <p>Let's connect!</p>
-</div>
+👋 I'm Chris, a passionate **Data Scientist** | 🤖 **ML Enthusiast**
 
 ---
 
 ### 📊 Contribution Stats
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisagunwa&show_icons=true&theme=radical)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
----
-
-### 📈 Activity Overview
-![Activity Overview](https://activity-graph.herokuapp.com/graph?username=chrisagunwa&theme=react-dark) <!-- Change link if necessary -->
 
 ---
 
@@ -25,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack 🛠️
+### 🛠️ Tech Stack/Libraries 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -41,9 +32,12 @@
 
 ---
 
-### 💬 Favorite Quote
-<div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
-  "The goal is to turn data into information, and information into insight." - Carly Fiorina
+###
+
+<div align="center">
+    <div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
+       <h1>"The goal is to turn data into information, and information into insight." - Carly Fiorina</h1>
+    </div>
 </div>
 
 ---
