@@ -3,20 +3,21 @@
 # Hi there 👋  
 👋 I'm Chris, a passionate **Data Scientist** | 🎓 **Economics & Management** | 🤖 **ML Enthusiast**
 
-I'm dedicated to leveraging advanced analytics and machine learning to tackle complex business challenges. With my background in economics, I provide a unique perspective on data-driven decision-making.
-
----
-
-### 🎉 Animation
-*I am a data scientist...*  
-*Let's connect!*
+<div align="center">
+  <h2>I am a Data Scientist...</h2>
+  <p>Let's connect!</p>
+</div>
 
 ---
 
 ### 📊 Contribution Stats
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisagunwa&show_icons=true&theme=radical)
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=chrisagunwa&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=chrisagunwa&count_private=true&show_icons=true&theme=radical)
 
+---
+
+### 📈 Activity Overview
+![Activity Overview](https://activity-graph.herokuapp.com/graph?username=chrisagunwa&theme=react-dark) <!-- Change link if necessary -->
 
 ---
 
@@ -41,61 +42,27 @@ I'm dedicated to leveraging advanced analytics and machine learning to tackle co
 
 ---
 
-### 📈 Activity Overview
-![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=chrisagunwa&theme=react-dark)
+### 💬 Favorite Quote
+<div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
+  "The goal is to turn data into information, and information into insight." - Carly Fiorina
+</div>
 
----
-
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                    height: 100%;
-                    width: 100%;
-                    background-color: #0D1117;
-                    border: 2px solid #30363D;
-                    border-radius: 10px;
-                    font-family: Arial, sans-serif;
-                    color: #C9D1D9;
-                    padding: 10px;
-                }
-                .quote {
-                    font-size: 16px;
-                    font-style: italic;
-                    text-align: center;
-                    margin-bottom: 10px;
-                }
-                .author {
-                    font-size: 14px;
-                    font-weight: bold;
-                }
-            </style>
-            <div class="container">
-                <p class="quote">"The goal is to turn data into information, and information into insight."</p>
-                <p class="author">- Carly Fiorina</p>
-            </div>
-        </div>
-    </foreignObject>
-</svg>
 ---
 
 ### 📂 Pinned Repositories
-- [Repo 1](link-to-your-repo1)  <!-- Replace with your repo link -->
-- [Repo 2](link-to-your-repo2)  <!-- Replace with your repo link -->
-- [Repo 3](link-to-your-repo3)  <!-- Replace with your repo link -->
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=repo1)](https://github.com/chrisagunwa/repo1)  <!-- Replace with your repo -->
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=repo2)](https://github.com/chrisagunwa/repo2)  <!-- Replace with your repo -->
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=chrisagunwa&repo=repo3)](https://github.com/chrisagunwa/repo3)  <!-- Replace with your repo -->
 
 ---
 
 ### 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/christian-agunwa)
-- [Facebook](https://www.facebook.com/ejikemeagunwa)
-- [X (Twitter)](https://x.com/KemeAgunwa)
-- [Personal Website](https://bit.ly/ejikemeuwa)
+<div>
+  <a href="https://www.linkedin.com/in/christian-agunwa"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png"/></a>
+  <a href="https://www.facebook.com/ejikemeagunwa"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/></a>
+  <a href="https://x.com/KemeAgunwa"><img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png"/></a>
+  <a href="https://bit.ly/ejikemeuwa"><img src="https://img.icons8.com/ios-filled/50/000000/globe.png"/></a>
+</div>
 
 ---
 
