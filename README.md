@@ -11,7 +11,13 @@
 
 ---
 <div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
-    <h3>A Data Scientist with Economics & Management background. Passionate about applying advanced analytics and ML to business challenges and organizational goals</h1>
+    <h5>I am a Data Scientist with a background in Economics and Management, passionate about using advanced analytics and machine learning to solve business challenges and drive organizational success. My expertise lies in transforming large datasets into actionable insights, enabling better decision-making and optimization of processes.
+
+With skills in Python and SQL, I am experienced in data wrangling, feature engineering, and building predictive models. I enjoy working on machine learning projects, from customer behavior predictions to automating business processes, always focusing on creating models that are both accurate and useful.
+
+I pride myself on being able to communicate complex technical concepts to non-technical audiences, ensuring that data-driven insights are understood and effectively implemented. I also enjoy collaborating with cross-functional teams to align data science efforts with broader business objectives.
+
+Staying up to date with the latest trends in data science and machine learning, I continuously seek to improve my skills and bring innovative solutions to the table. My goal is to help businesses make smarter decisions, improve efficiency, and achieve growth through data-driven strategies.</h5>
  </div>
 ---
 
