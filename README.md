@@ -10,6 +10,10 @@
 </div>
 
 ---
+<div style="border: 1px solid #eee; padding: 10px; border-radius: 5px;">
+    <h3>A Data Scientist with Economics & Management background. Passionate about applying advanced analytics and ML to business challenges and organizational goals</h1>
+ </div>
+---
 
 ### 📊 Contribution Stats
 <div align="center">
